@@ -43,6 +43,6 @@ Viewing Test Results:
 Cypress will generate reports for all test runs in the cypress/reporters/mochawesome-report directory. You can view these reports to check the results of your tests in html and Json file formats.
 
 
-Troubleshooting
+Troubleshooting:
 If you encounter any issues while setting up or running the tests, please check the Cypress documentation for troubleshooting tips.
 
